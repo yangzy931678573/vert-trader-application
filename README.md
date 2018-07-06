@@ -7,4 +7,4 @@ to start any module,you should open the cmd and do:
 3. cd [module]
 4. java -jar target/[module]-1.0-SNAPSHOT-fat.jar start -id [module] --redirect-output [list]
 
- # commit: (1) [list]  is using to list all vertx application.
+  comment: (1) [list]  is using to list all vertx application.
